@@ -51,3 +51,57 @@
   <li><em>Cuando llegué, ella ya había salido.</em> (When I arrived, she had already left.)</li>
   <li><em>Habíamos terminado antes de que empezara la lluvia.</em> (We had finished before the rain started.)</li>
 </ul>
+
+<hr>
+
+<h2>3. Present Subjunctive Perfect (Present Perfect Subjunctive)</h2>
+<p>
+  The present perfect subjunctive expresses actions that are completed and related to the present but within a subjunctive context (doubt, emotion, desire, etc.).
+</p>
+<p><strong>Formation:</strong> Present subjunctive of <em>haber</em> + past participle.</p>
+
+<table>
+  <thead>
+    <tr><th>Haber (present subjunctive)</th><th>Conjugation</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>yo</td><td>haya</td></tr>
+    <tr><td>tú</td><td>hayas</td></tr>
+    <tr><td>él/ella/usted</td><td>haya</td></tr>
+    <tr><td>nosotros/as</td><td>hayamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>hayan</td></tr>
+  </tbody>
+</table>
+
+<p><strong>Usage examples:</strong></p>
+<ul>
+  <li><em>Espero que hayas terminado.</em> (I hope you have finished.)</li>
+  <li><em>No creo que él haya venido.</em> (I don't think he has come.)</li>
+</ul>
+
+<hr>
+
+<h2>4. Past Perfect Subjunctive (Pluperfect Subjunctive)</h2>
+<p>
+  The past perfect subjunctive expresses actions that had happened before another past action, within a subjunctive context.
+</p>
+<p><strong>Formation:</strong> Past subjunctive of <em>haber</em> + past participle.</p>
+
+<table>
+  <thead>
+    <tr><th>Haber (past subjunctive)</th><th>Conjugation</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>yo</td><td>hubiera</td></tr>
+    <tr><td>tú</td><td>hubieras</td></tr>
+    <tr><td>él/ella/usted</td><td>hubiera</td></tr>
+    <tr><td>nosotros/as</td><td>hubiéramos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>hubieran</td></tr>
+  </tbody>
+</table>
+
+<p><strong>Usage examples:</strong></p>
+<ul>
+  <li><em>Si yo hubiera sabido, habría venido.</em> (If I had known, I would have come.)</li>
+  <li><em>Esperaba que hubieras terminado.</em> (I hoped that you had finished.)</li>
+</ul>
