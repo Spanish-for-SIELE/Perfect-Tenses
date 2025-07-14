@@ -105,3 +105,31 @@
   <li><em>Si yo hubiera sabido, habría venido.</em> (If I had known, I would have come.)</li>
   <li><em>Esperaba que hubieras terminado.</em> (I hoped that you had finished.)</li>
 </ul>
+
+<hr>
+
+<h2>5. Common Verbs with Irregular Past Participles</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Infinitive</th>
+      <th>Irregular Past Participle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>abrir</td><td>abierto</td></tr>
+    <tr><td>cubrir</td><td>cubierto</td></tr>
+    <tr><td>decir</td><td>dicho</td></tr>
+    <tr><td>descubrir</td><td>descubierto</td></tr>
+    <tr><td>escribir</td><td>escrito</td></tr>
+    <tr><td>freír</td><td>frito</td></tr>
+    <tr><td>hacer</td><td>hecho</td></tr>
+    <tr><td>imprimir</td><td>impreso</td></tr>
+    <tr><td>morir</td><td>muerto</td></tr>
+    <tr><td>poner</td><td>puesto</td></tr>
+    <tr><td>resolver</td><td>resuelto</td></tr>
+    <tr><td>romper</td><td>roto</td></tr>
+    <tr><td>ver</td><td>visto</td></tr>
+    <tr><td>volver</td><td>vuelto</td></tr>
+  </tbody>
+</table>
